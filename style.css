@@ -1,0 +1,13 @@
+body {
+     background-color: lightgray;
+}
+
+#resultTable {
+    border: 2px solid black;
+    margin: 0px auto;
+}
+
+#resultTable td {
+    border: 2px solid red;
+    text-align: center;
+}
