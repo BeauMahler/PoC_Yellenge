@@ -2,12 +2,26 @@ body {
      background-color: lightgray;
 }
 
-#resultTable {
+#resultTable, #eventDetailTable {
     border: 2px solid black;
-    margin: 0px auto;
+    margin: 20px 400px;
 }
 
-#resultTable td {
-    border: 2px solid red;
+#resultTable td, #eventDetailTable td {
+    border: 2px solid darkgray;
     text-align: center;
 }
+
+#resultTable tr.hidden {
+    display: none;
+}
+
+.header {
+    border: 2px solid green;
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+

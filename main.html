@@ -5,12 +5,18 @@
         <link rel="stylesheet" type="text/css" href="style.css"/>
         <script type="text/javascript" src="actions.js"></script>
     </head>
-    <body>
+    <body onload="getAPIData()" onload="init()">
+    <!-- <body onload="init()"> -->
         <button onclick="getAPIData()">Events ophalen</button>
+        <div class="header">
+            <h1>Huidige events:</h1>
+            <p>Klik op een event voor meer informatie</p>
+            <input type="text" placeholder="Event zoeken" id="searchValue">
+        </div>
         <table id="resultTable">
             <tbody>
                 <tr>
-                    <th>Id</th>
+                    <th>Event nr.</th>
                     <th>Naam</th>
                     <th>Land(en)</th>
                     <th>Begindatum</th>
