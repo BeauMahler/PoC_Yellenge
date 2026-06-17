@@ -4,13 +4,12 @@ function init(){
 }
 
 function addEventListeners(){
-    var searchValue = document.getElementById("searchValue");
-    searchValue.addEventListener('keyup', function(){
+  document.getElementById("searchValue").addEventListener('keyup', function(){
     let filter = this.value.toLowerCase();
     let eventList = document.getElementById("resultTable").getElementsByTagName("tr");
+
     for(let i=0; i< eventList.length; i++){
       let event = eventList[i];
-
       if(event.textContent.toLowerCase().includes(filter)){ //matches search value (show)
         event.classList.remove('hidden');
       }
