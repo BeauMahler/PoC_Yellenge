@@ -1,0 +1,24 @@
+Wat vind je goed aan je PoC?
+> Alle 3 de opdrachten zijn uitgevoerd en werken.
+> Het product is redelijk overzichtelijk.
+> De code is goed leesbaar.
+
+Wat zou je als eerste verbeteren als je nog 8 uur extra had?
+> De tijd omzetten naar een beter leesbare tijd
+> Aan de opmaak werken (mooier maken)
+> Een globale variabele maken voor de API data om snelheid en aantal calls te reduceren
+
+Waar ben je tegenaan gelopen?
+> Zelf een project opzetten is altijd een probleem geweest en hier keek ik ook het meest tegenop. Op gegeven moment had ik een react project aangemaakt
+    en toen wist ik niet hoe ik daarmee moest werken. Uiteindelijk dus maar gekozen om het simpel te houden zodat ik iig de opdracht kon maken.
+> Niet kunnen sparren over de opbouw/opmaak van de code. Niet erg, maar was fijn om af en toe een vraag te stellen.
+
+Waar lag je focus?
+> Ik wilde laten zien wat ik kon en hoe ik programmeer, dus ik focuste meer op functionaliteit en probeerde de 3 opdrachten te laten werken.
+> Verder vind ik het gewoon fijn als dingen netjes en overzichtelijk zijn, zowel in de code als het eindproduct.
+
+Waar heb je het meeste plezier aan beleefd?
+> Deel 3 van de opdracht, omdat ik toen ook wat geavanceerder kon werken.
+
+
+

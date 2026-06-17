@@ -1,0 +1,31 @@
+Welke afwegingen heb je gemaakt?
+> Werken met JS, HTML en CSS. 
+    Meeste ervaring mee en handig voor Front-end werk.
+> Search bar maken bij punt 2
+    Ik dacht dat ze alle 3 moesten en las pas na het maken van de search bar dat het een van de drie was.
+> Event nummer toegevoegd
+    Dit vind ik zelf gewoon fijner, geeft wat meer overzicht. Voegt verder niks functioneels toe.
+> Datum niet duidelijker gemaakt
+    De datum staat er natuurlijk een beetje roemoerig en hier is makkelijk een functie voor te schrijven die hier een nette Date() van maakt,
+    wat het leesbaarder maakt. Echter heb ik er voor gekozen dit niet te maken omdat ik de opdracht zelf belangrijker vond en omdat het wel werkt.
+    Vanwege tijdsredenen even aan de kant gelaten, maar wel een 'nice to have' voor de toekomst.
+> "Text-decoratie"
+    Bv. linkjes in het blauw: dat is logischer dat je erop kan klikken. Scheidingstekens tussen items voor leesbaarheid en overzicht.
+> Tabelvorm
+    Leek me het meest logisch en overzichtelijk voor de opdracht.
+> Tags en Url als extra data op overzichtspagina
+    Tags kan geen kwaad (makkelijk toe te voegen), en url is handig als men zelf wilt aanmelden oid (moet via officiele website)
+> Ik heb zelf gewerkt met de Live Server via VS Code. Hier ben ik bekend mee en is weinig moeite.
+
+
+
+Welke onderdelen zijn bewust buiten de scope gebleven?
+> Templating framework opzetten. 
+    Wel tijd aan besteed, maar juist het opzetten heb ik weinig ervaring mee, dus kostte te veel tijd om uberhaupt iets op te leveren.
+    Gekozen om toch maar zonder te doen zodat ik wel de opdracht kon uitvoeren.
+> Mooie opmaak
+    Ik vind functionaliteit in eerste instantie belangrijker dan dat het er mooi uitziet (maar niet werkt). Vandaar weinig werk voor de opmaak.
+    CSS is ook niet mijn sterkste kant, dus ik leer liever hoe jullie het graag willen dan dat ik nu heel veel tijd in investeer en straks toch
+    alles weer anders moet. Liever in een keer goed aanleren.
+> Bepaalde optimalisaties
+    Vanwege tijd en ik wil graag overleggen wat de beste aanpak is (zoals met globale variabele, opmaak en geneste functie calls). 
